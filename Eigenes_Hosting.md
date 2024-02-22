@@ -1,3 +1,5 @@
+[Zurück zu "Technische Dokumentation"](Technische_Dokumentation.md)
+
 # Eigenes Hosting
 
 Der Betrieb von CuraLink auf eigenen Servern in der eigenen Infrastruktur bietet Unternehmen volle Kontrolle über ihre Daten und Anwendungen. Diese Methode ermöglicht es, die Sicherheitsstandards und Compliance-Anforderungen individuell anzupassen und zu verwalten.
