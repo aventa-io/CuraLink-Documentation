@@ -73,6 +73,7 @@ Nach dem Klick auf “Bewohner anlegen” gelangen Sie auf die Seite für die An
 - Zimmernr./Stationsnr.
 - Hausarzt
 - Versicherungsarzt sowie Versicherungsnr. (bei GKV-Versicherten)
+
 Nachdem diese Daten eingetragen sind kann bereits durch einen Klick auf “Bedarf erheben” sofort eine Bestellung wie bereits im Vorlauf beschrieben abgesendet werden. 
 Mit einem Klick auf *Weiter* gelangen Sie auf die nächste Erfassungsseite für Adressen. Hier können die Adressen des Bewohners hinterlegt werden (dies wird standardmäßig vorausgefüllt mit den Daten der jeweiligen Pflegeeinrichtung) sowie - falls abweichend - den Daten der Rechnungsempfänger sowie des Betreuers. 
 Mit einem Klick auf *Weiter* gelangen Sie nun auf die Auswahl der einzelnen Versorgungsbereiche. Mit einem Klick auf den Schieberegler sowie der Auswahl, ab der die Versorgung aktiv sein soll werden die entsprechenden Artikel bei der Bestellung angezeigt. 
