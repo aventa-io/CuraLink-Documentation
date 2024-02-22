@@ -6,7 +6,11 @@ In unserer Cloud übernehmen wir die Bereitstellung von Server- und Speicherkapa
 
 ## Systemanforderungen Server
 
+Bei der Nutzung von CuraLink im Cloud-Betriebsmodell entfallen für den Kunden jegliche Anforderungen an die Systemkonfiguration oder die Bereitstellung von Serverressourcen. Der gesamte Betrieb, einschließlich der Serverwartung, Skalierung und Sicherheitsmanagement, wird vom Hersteller übernommen. Kunden profitieren von einer hochverfügbaren, sicheren und stets aktuellen Infrastruktur, ohne sich um die technischen Details der Serverkonfiguration kümmern zu müssen. Diese Herangehensweise ermöglicht es Unternehmen, sich voll und ganz auf die Implementierung und Nutzung von CuraLink zu konzentrieren, ohne interne Ressourcen für die Verwaltung der zugrundeliegenden Serverinfrastruktur aufwenden zu müssen.
+
 ## Einrichtung
+
+Die initiale Einrichtung von CuraLink zielt darauf ab, den Prozess für den Kunden so reibungslos und unkompliziert wie möglich zu gestalten. Im Hinblick auf das Netzwerk kann der Hersteller nach Kundenwunsch spezifische Anpassungen vornehmen, wie etwa IP-Freigaben oder die Einrichtung von Netzwerk-Peering, um eine optimale Konnektivität und Sicherheit zu gewährleisten. Darüber hinaus steht die Installation von notwendigen Zertifikaten zur Verfügung, um eine sichere und vertrauenswürdige Kommunikation zwischen den beteiligten Systemen zu ermöglichen. Für detaillierte Informationen zur fachlichen Einrichtung und Nutzung von CuraLink verweisen wir auf die umfangreiche Anwenderdokumentation, die Schritt-für-Schritt-Anleitungen und Best Practices umfasst. Diese Ressourcen sind darauf ausgerichtet, Kunden eine schnelle Einarbeitung und effiziente Nutzung der Anwendung zu ermöglichen, mit dem Ziel, eine Einführung so einfach wie möglich zu machen.
 
 ## Sicherheit
 
