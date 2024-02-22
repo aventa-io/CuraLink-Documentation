@@ -1,3 +1,5 @@
+[Zurück zu "Technische Dokumentation"](Technische_Dokumentation.md)
+
 # CuraLink Cloud
 
 Der Betrieb von CuraLink in unserer Cloud ermöglicht eine sichere und flexible Lösung, die es Unternehmen erlaubt, sich auf ihre Kerngeschäfte zu konzentrieren, ohne die IT-Infrastruktur verwalten zu müssen. Sie profitieren dabei von vorgegebenen Sicherheitsmaßnahmen und Compliance-Standards, ohne eigene Anpassungen vornehmen zu müssen.
