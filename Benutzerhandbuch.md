@@ -1,6 +1,6 @@
 [Zurück zu "Dokumentation"](README.md)
 
-# Anwenderdokumentation
+# Benutzerhandbuch
 
 ## 1. Einführung
 Willkommen zur umfassenden Dokumentation von CuraLink, die speziell entwickelt wurde, um den Arbeitsalltag von Pflegekräften zu erleichtern. Unsere Plattform bietet eine intuitive Lösung für die Verwaltung von jeglichen Patienten- & Einrichtungsbedarfen, die Erinnerung an anstehende Bestellungen und ein effizientes Dokumentenmanagement, alles zugeschnitten auf die Bedürfnisse in der Pflege.
