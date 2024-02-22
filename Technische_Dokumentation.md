@@ -42,6 +42,31 @@ Sie stellen selber die Server- und Speicherkapazitäten bereit, wir helfen Ihnen
 
 [Hier finden Sie weiterführende Informationen für eigenes Hosting](Eigenes_Hosting.md)
 
+## Anwendungskomponenten
+
+Bei der Implementierung von CuraLink haben Kunden die Möglichkeit, die verschiedenen Komponenten der Anwendung – wie Datenbanken, Dateispeicher und E-Mail-Server – je nach gewähltem Betriebsmodell (Cloud-Betrieb oder Eigenhosting) zu trennen oder zu bündeln. Diese Flexibilität ermöglicht es, CuraLink optimal an die spezifischen Bedürfnisse und bestehende Infrastruktur des Unternehmens anzupassen.
+
+### Datenbanken
+
+Bei der Nutzung von CuraLink, unabhängig davon, ob Sie sich für das Hosting als Container via Docker oder für eine direkte Installation entscheiden, besteht die Möglichkeit, eine eigene Datenbankinfrastruktur zu integrieren. CuraLink unterstützt eine Vielzahl von Datenbanksystemen, um eine flexible und leistungsstarke Datenverwaltung zu gewährleisten. Die unterstützten Datenbanken umfassen:
+
+- PostgreSQL: Moderne Versionen ab PostgreSQL 9.6 und höher werden unterstützt, wobei die Nutzung von Versionen 12 oder neuer aufgrund verbesserter Leistungsmerkmale und Sicherheitsfunktionen empfohlen wird.
+- MySQL: Unterstützt werden Versionen ab MySQL 5.7, mit einer Empfehlung für MySQL 8.0 oder höher, um von den neuesten Optimierungen und Sicherheitsfeatures zu profitieren.
+- SQL Server: Für Microsoft SQL Server werden Versionen ab 2016 unterstützt. Die Nutzung von SQL Server 2019 oder neuer wird empfohlen, um die besten Leistungs- und Sicherheitseigenschaften zu erzielen.
+Durch die Integration Ihrer eigenen Datenbank können Sie die Kontrolle über die Datenspeicherung behalten und CuraLink nahtlos in Ihre bestehende IT-Infrastruktur einbinden.
+
+### Dateispeicheroptionen
+CuraLink ermöglicht die Nutzung eigener Dateispeichersysteme für die Speicherung und Verwaltung von Dateien. Unterstützt werden die folgenden Protokolle, die eine sichere Übertragung und Speicherung von Daten garantieren:
+
+- SCP (Secure Copy Protocol)
+- SFTP (SSH File Transfer Protocol)
+- FTPS (FTP Secure)
+Diese Protokolle bieten die Flexibilität, Dateien sicher über das Netzwerk zu übertragen und stellen eine zuverlässige Lösung für die Datenspeicherung dar. Die Wahl des passenden Dateispeichers hängt von Ihren spezifischen Sicherheitsanforderungen und der bestehenden Infrastruktur ab.
+
+### E-Mail-Versand
+
+Für den Versand von E-Mails bietet CuraLink die Integration mit einem eigenen SMTP-Server. Diese Option ermöglicht es, die E-Mail-Kommunikation nahtlos in bestehende Systeme zu integrieren und die Kontrolle über den Versandprozess zu behalten. Die Nutzung eines eigenen SMTP-Servers gewährleistet, dass alle ausgehenden E-Mails den Unternehmensrichtlinien entsprechen und ermöglicht eine hohe Anpassbarkeit in Bezug auf E-Mail-Vorlagen, Adressierung und Zustellbarkeit.
+
 ## API-Referenz
 
 ### Einleitung
