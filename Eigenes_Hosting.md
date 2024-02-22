@@ -6,6 +6,20 @@ Sie stellen selber die Server- und Speicherkapazitäten bereit, wir helfen Ihnen
 
 ## Systemanforderungen Server
 
+Für Kunden, die sich für das eigene Hosting von CuraLink entscheiden, bieten wir zwei Betriebsmodelle an: den Betrieb als Container über Docker oder eine direkte Installation auf dem Server. Hier sind die technischen Anforderungen für beide Szenarien:
+
+### Installation mittels Docker
+- Docker-Dienst: Es muss ein Docker-Dienst auf einem Linux-kompatiblen System bereitstehen. Docker ermöglicht es, CuraLink als Container zu betreiben, was eine einfache Skalierung und Portabilität gewährleistet.
+- Arbeitsspeicher: Für den Docker-Container von CuraLink wird mindestens 32 GB Arbeitsspeicher benötigt, um eine optimale Leistung zu gewährleisten.
+- CPU-Anforderungen: Die CPU sollte folgende Merkmale aufweisen:
+  - Mehrere Kerne (mindestens 4 Kerne empfohlen), um parallele Verarbeitung und eine effiziente Ausführung der Anwendungen zu unterstützen.
+  - Moderne CPU-Architektur (x86_64 oder ARMv8), um Kompatibilität mit Docker und die erforderliche Rechenleistung sicherzustellen.
+  - Unterstützung für Virtualisierungstechnologien, um die Docker-Performance zu optimieren.
+- Festplattenspeicher: Es wird eine Festplattenkapazität von etwa 100 GB benötigt, um die Anwendungsdaten, Docker-Images und Logs zu speichern.
+
+### Installation
+Kunden, die eine direkte Installation von CuraLink bevorzugen, sollten sich direkt an den Support unter support@curalink.io wenden. Das Support-Team bietet individuelle Anleitungen und Unterstützung, um sicherzustellen, dass die Systemumgebung den Anforderungen von CuraLink entspricht und eine reibungslose Installation gewährleistet ist.
+
 ## Einrichtung
 
 ## Sicherheit
