@@ -32,13 +32,7 @@ Der Betrieb von CuraLink in unserer Cloud ermöglicht eine sichere und flexible 
 
 In unserer Cloud übernehmen wir die Bereitstellung von Server- und Speicherkapazitäten. Sie haben dabei immer die volle Kontrolle über Ihre Daten und bleiben stets Eigentümer dieser.
 
-### Systemanforderungen Server
-
-### Einrichtung
-
-### Sicherheit
-
-Bei der Cloud-Variante von CuraLink übernehmen wir, der Hersteller, die vollständige Verwaltung der Sicherheitsinfrastruktur. Die Daten werden auf sicheren Servern in Deutschland gehostet, um die Einhaltung lokaler Datenschutzgesetze und höchste Sicherheitsstandards zu gewährleisten. Wir sorgen für die kontinuierliche Sicherheit Ihrer Daten durch automatisierte Patches und Updates, die sicherstellen, dass die Systeme stets auf dem neuesten Stand gegen bekannte Sicherheitslücken sind. Diese Prozesse laufen im Hintergrund, ohne die Nutzererfahrung zu beeinträchtigen, und garantieren eine robuste Sicherheitsumgebung, die sich auf die Zuverlässigkeit und Expertise des Herstellers stützt.
+[Hier finden Sie weiterführende Informationen zu CuraLink-Cloud](CuraLink_Cloud.md)
 
 ## Eigenes Hosting
 
@@ -46,13 +40,7 @@ Der Betrieb von CuraLink auf eigenen Servern in der eigenen Infrastruktur bietet
 
 Sie stellen selber die Server- und Speicherkapazitäten bereit, wir helfen Ihnen bei der Installation und Wartung unserer Plattform-Bestandteile.
 
-### Systemanforderungen Server
-
-### Einrichtung
-
-### Sicherheit
-
-Bei der Option des Selbst-Hostings von CuraLink liegt die Verantwortung für die Netzwerk- und Infrastruktursicherheit beim Betreiber selbst. Dies umfasst die Implementierung und Wartung von Firewalls, Intrusion Detection Systemen, sowie die Durchführung von regelmäßigen Sicherheitsüberprüfungen und Updates. Während diese Option den Betreibern mehr Kontrolle und Anpassungsfähigkeit bietet, erfordert sie auch ein tiefgreifendes Verständnis von Netzwerksicherheitsprinzipien und die Fähigkeit, die Infrastruktur gegen potenzielle Bedrohungen zu schützen. Es ist wichtig, dass Betreiber in der Lage sind, eine sichere Umgebung zu schaffen und zu unterhalten, die den hohen Sicherheitsstandards entspricht, die von einer Gesundheits- und Pflegeapplikation wie CuraLink erwartet werden.
+[Hier finden Sie weiterführende Informationen für eigenes Hosting](Eigenes_Hosting.md)
 
 ## API-Referenz
 
