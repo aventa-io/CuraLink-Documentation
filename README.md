@@ -8,7 +8,7 @@ Diese Dokumentation ist in zwei Hauptbereiche gegliedert: die Anwenderdokumentat
 
 Die Anwenderdokumentation richtet sich an Pflegekräfte und Administratoren, die direkt mit CuraLink arbeiten. Hier finden Sie detaillierte Anleitungen zur Einrichtung Ihres Kontos, zur Navigation in der App, zur Durchführung von Bedarfserhebungen und zur Verwaltung der erfassten Daten. Ziel ist es, Ihnen einen reibungslosen Ablauf zu gewährleisten und die Vorteile von CuraLink in Ihrem Arbeitsalltag voll auszuschöpfen.
 
-[Link zur Anwenderdokumentation](Anwenderdokumentation.md)
+[Link zum Benutzerhandbuch](Benutzerhandbuch.md)
 
 ## Technische Dokumentation für Betrieb und Einrichtung
 
