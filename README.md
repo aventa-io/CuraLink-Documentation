@@ -4,4 +4,4 @@
 [Link](Anwenderdokumentation.md)
 
 ## Technische Dokumentation für Betrieb und Einrichtung
-[Link]("Technische Dokumentation.md")
+[Link]("Technische%20Dokumentation.md")
