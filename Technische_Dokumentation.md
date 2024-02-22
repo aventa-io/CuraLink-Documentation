@@ -1,3 +1,5 @@
+[Zurück zu "Dokumentation"](README.md)
+
 # Technische Dokumentation
 
 Die technische Dokumentation ist für Entwickler, IT-Support-Mitarbeiter und andere technische Fachkräfte gedacht, die CuraLink implementieren, warten oder anpassen. In diesem Abschnitt werden die technischen Aspekte der App, einschließlich der Architektur, der API-Integrationen, der Sicherheitsmerkmale und der Anpassungsmöglichkeiten, ausführlich beschrieben. Ziel ist es, Ihnen das notwendige Wissen und die Werkzeuge an die Hand zu geben, um CuraLink nahtlos in bestehende Systeme zu integrieren und seine Funktionalität nach Bedarf zu erweitern.
