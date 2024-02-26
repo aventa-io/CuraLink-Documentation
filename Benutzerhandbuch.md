@@ -63,13 +63,13 @@ Je Bewohner werden die notwendigen Artikel in Bewohner-individuelle Warenkörbe 
 **Variante 2**
 Für einen Bewohner werden die notwendigen Artikel in einen Warenkorb gelegt, wie im folgenden Abschnitt erläutert. Nachdem alle notwendigen Artikel im Warenkorb liegen kann die Bestellung ohne weitere Prüfung direkt an den Versorger abgesendet werden. Diese Funktionalität eignet sich besonders dann, wenn kurzfristig für einen Bewohner ein Bedarf besteht.  
     
-### 4.2.2. Bestellungen
-Unter dem Menüpunkt “Bestellt” finden sich nun die vergangenen und aktuellen Bestellungen. Zusammengefasste aber noch nicht an den Versorger verschickte Bestellungen sind an dem roten, geöffneten Briefumschlag erkennbar. Abgesendete Bestellungen sind an dem grünen, geschlossenen Umschlag erkennbar. 
+### 4.2.2. Bestellungsübersicht
+Unter dem Menüpunkt “Bestellt” finden sich nun die vergangenen und aktuellen Bestellungen. Zusammengefasste, aber noch nicht an den Versorger verschickte Bestellungen sind an dem roten, geöffneten Briefumschlag erkennbar. Abgesendete Bestellungen sind an dem grünen, geschlossenen Umschlag erkennbar. 
     
-#### 4.2.2.1 Anstehende Bedarfe
-Unter dem Menüpunkt “Anstehende Bedarfe” werden alle Bestellungen angezeigt, die in den nächsten XY Tagen fällig sind. Mit einem Klick können diese anstehenden Bedarfe übernommen/angepasst sowie versendet werden. Dies entlastet, insbesondere bei wiederkehrenden Bestellungen oder neuen Mitarbeitern die Pflegekräfte deutlich. 
+#### 4.2.3 Anstehende Bedarfe
+Unter dem Menüpunkt “Anstehende Bedarfe” werden alle Bestellungen angezeigt, die in den nächsten sieben Tagen fällig sind. Mit einem Klick können diese anstehenden Bedarfe übernommen/angepasst sowie versendet werden. Dies entlastet, insbesondere bei wiederkehrenden Bestellungen oder neuen Mitarbeitern die Pflegekräfte deutlich. 
     
-#### 4.2.2.2 Bewohneranlage und -verwaltung
+### 4.3 Bewohneranlage und -verwaltung
 Nach dem Klick auf “Bewohner anlegen” gelangen Sie auf die Seite für die Anlage von neuen Bewohnern oder Patienten. Im oberen Bereich erkennen Sie in Form einer Perlenschnur die Informationen, die für einen Bewohner erfasst werden. Um Ihnen eine schnelle Bestellung für neue Bewohner zu ermöglichen sind für die Anlage eines neuen Bewohnern nur einige wenige Informationen notwendig
 - Nachname
 - Zimmernr./Stationsnr.
@@ -82,8 +82,8 @@ Mit einem Klick auf *Weiter* gelangen Sie nun auf die Auswahl der einzelnen Vers
 Auf der folgenden Seite *Hilfsmittel* können dem Bewohner Hilfsmittel zugeordnet werden. Diese Hilfsmittel werden dann ebenso in dem Bewohnerprofil angezeigt. Dort kann dann mit wenigen Klicks eine Reparatur oder eine Rückholung beauftragt werden. 
 Die letzte Seite beinhaltet die Dokumente. Hier können alle versorgungsrelevanten Dokumente hinterlegt, mit dem Bewohner durchgegangen und digital auf dem Handy/Tablet durch den Bewohner unterschrieben und an den Versorger gesendet werden. Ausdrucken und faxen von Unterlagen an Versorger entfällt somit und entlastet die Pflegekräfte. 
 
-### 4.2.3. Bestellungen
+### 4.4 Kontakt
 Nach einem Klick auf “Kontakt” kann direkt mit dem jeweiligen Versorger Kontakt aufgenommen werden. Damit die Anfrage direkt an den richtigen Ansprechpartner bei dem Versorger geleitet werden kann, kann die Anfrage ergänzt werden um Informationen um welchen Bewohner es sich handelt und was der Grund für die Anfrage ist. Im Rahmen der Einführung des Systems sprechen wir mit Ihren Versorgern, um einen reibungslosen Ablauf und eine zeitnahe Rückmeldung des Versorgers an Sie sicherzustellen. 
 
-### 4.2.4. Bestellungen
+### 4.5 Informationen und häufige Fragen
 Unter dem Menüpunkt *Informationen* finden Sie Antworten auf die am häufigsten gestellten Fragen. Sollten diese Informationen nicht ausreichend können Sie uns natürlich jederzeit per Mail via service@curalink.io kontaktieren und wir melden uns schnellstmöglich bei Ihnen.
