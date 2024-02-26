@@ -16,13 +16,13 @@ Willkommen zur umfassenden Dokumentation von CuraLink, die speziell entwickelt w
 Die Anlage von Nutzern, Bewohnern sowie Artikeln ist meist nach wenigen Stunden erledigt. Sie können dann direkt CuraLink nutzen und von der Entlastung Ihrer Mitarbeiter profitieren. Aufgrund des intuitiven Aufbaus und klarer Abläufe sind im Vorfeld keine umfangreichen Schulungen oder Einweisungen notwendig. Sollten trotzdem Rückfragen während der Nutzung auftreten, stehen wir Ihnen natürlich jederzeit zur Verfügung.  
 
 ## 3. Einloggen
-Das Einloggen in CuraLink kann über zwei Wege erfolgen 
-1. Über die website [www.curalink.io](http://www.curalink.io); Dort findet sich ein Login-Button. Nachdem Sie auf diesen geklickt haben erscheint eine Login-Oberfläche. 
+Sie können sich in CuraLink bequem auf zwei Wegen einloggen:
+1. Über die website [www.curalink.io](http://www.curalink.io); Dort findet sich oben rechts auf der Startseine ein Login-Button. Nachdem Sie auf diesen geklickt haben erscheint eine Login-Oberfläche. 
 2. Über Ihren persönlichen Login-Link. Jede Pflegeeinrichtung erhält einen individuellen Login-Link. Wird dieser Link aufgeruft erscheint eine Login-Oberfläche. 
-Die Login-Daten für die einzelnen Nutzer haben wir Ihnen im Rahmen des Einrichtungsprozesses zur Verfügung gestellt. Sollten Sie die Zugangsdaten vergessen haben wenden Sie sich bitte per Mail an support@curalink.io   
+Die Login-Daten für die einzelnen Nutzer haben wir Ihnen im Rahmen des Einrichtungsprozesses zur Verfügung gestellt. Sollten Sie die Zugangsdaten vergessen haben, wenden Sie sich bitte per Mail an support@curalink.io   
 
 ## 4. Benutzeroberfläche
-Die Benutzeroberfläche von CuraLink ist klar strukturiert. Das Hauptmenü bietet einen schnellen Zugriff auf alle wichtigen Funktionen und Bereiche der Lösung, die im Folgenden einzeln erläutert werden. 
+Die Benutzeroberfläche von CuraLink ist aufgeräumt und klar strukturiert. Das Hauptmenü bietet einen schnellen Zugriff auf alle wichtigen Funktionen - auch wenn es mal wieder etwas hektisch im Pflegealltag wird. Die wesentlichen Funktionen werden im folgenden Abschnitt erläutert. 
 
 ### 4.1. Bewohnerübersicht
 Zentraler Startpunkt für die Nutzung von CuraLink ist die Bewohnerübersicht. In dieser Übersicht finden Sie auf einen Blick 
