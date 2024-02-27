@@ -1,11 +1,11 @@
 [
   {
     "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
-    "answer": ["Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und Bestellen. Darüber hinaus werden diese Bedarfe in Form von Bestellungen automatisch an Versorger bzw. Leistungserbringer übertragen."]
+    "answer": ["Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und bestellen. Gleichzeitig erinnert CuraLink Sie an anstehende Bedarfe von Bewohnern/Patienten. Darüber hinaus kann mittels CuraLink einfach mit dem Versorger in Kontakt getreten werden, beispielsweise bei Rückfragen zu Bestellungen oder Reparaturbedarf bei Hilfsmitteln."]
   },
   {
-    "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
-    "answer": ["Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und Bestellen. Darüber hinaus werden diese Bedarfe in Form von Bestellungen automatisch an Versorger bzw. Leistungserbringer übertragen."]
+    "question": "Wie kann ich für einen Patienten eine Bestellung aufgeben?",
+    "answer": ["Mit einem Klick gelangen Sie in die Patientenübersicht, die Sie noch nach Wohnbereich, Station, Tour etc. filtern können. Dort wählen Sie einen Patienten aus. Artikel können dann in den Warenkorb gelegt werden, dabei werden nur diese Artikel angezeigt, die für den Bewohner relevant sind. Eine weiterführende Artikelkenntniss ist nicht notwendig. Nachdem alle benötigten Artikel im Warenkorb sind kann die Bestellung direkt mit einem Klick an den Versorger übermittelt werden."]
   },
   {
     "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
