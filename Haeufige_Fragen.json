@@ -23,7 +23,7 @@
       {
         "question": "Ich habe eine Rückfrage zu einer Bestellung, die ich über CuraLink versendet habe, was kann ich tun?",
         "answer": [
-          "Mittels CuraLink können Sie problemlos direkt mit Ihren Versorgern und Lieferanten in Kontakt treten. Nutzen Sie hierfür einfach das Kontaktformular und wählen Sie den Betreff "Rückfrage zu einer Bestellung" aus - der Versorer wird sich dann kurzfristig bei Ihnen dazu melden."
+          "Mittels CuraLink können Sie problemlos direkt mit Ihren Versorgern und Lieferanten in Kontakt treten. Nutzen Sie hierfür einfach das Kontaktformular und wählen Sie den Betreff Rückfrage zu einer Bestellung aus - der Versorger wird sich dann kurzfristig bei Ihnen melden."
         ]
       }
     ]
@@ -33,14 +33,13 @@
     "questions": [
       {
         "question": "Wie kann ich mit der Nutzung von CuraLink starten?",
-        "answer": [
-          "XYZ."
+        "answer": [Um CuraLink nutzen nutzen zu können benötigen wir von Ihnen lediglich die Anzahl der Nutzer, z.B. einen Nutzer je Wohnbereich, sowie die Versorger und Lieferanten, bei denen Sie über CuraLink bestellen wollen - um alles weitere kümmeren wir uns. Nach einer kurzen Einrichtungszeit können Sie direkt mit der Nutzung von CuraLink starten." 
         ]
       },
       {
         "question": "Ist eine Schulung für das Personal erforderlich, um CuraLink zu nutzen?",
         "answer": [
-          "xyz."
+          "Eine Schulung von CuraLink ist nicht notwendig. Das System ist so selbsterklärend aufgebaut, dass nach einer kurzen Einweisung ohne weitere Schulung mit der Nutzung begonnen werden kann. Darüber hinaus stellen wir umfangreiche Anleitungen zur Verfügung. Sollten doch noch Rückfragen bestehen, so können Sie sich gerne jederzeit an service@curalink.io wenden."
         ]
       },
       {
