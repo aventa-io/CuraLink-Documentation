@@ -9,50 +9,50 @@
         ]
       },
       {
-        "question": "Wie kann ich für einen Patienten eine Bestellung aufgeben?",
+        "question": "Wie kann ich für einen Patienten/Bewohner eine Bestellung aufgeben?",
         "answer": [
           "Mit einem Klick gelangen Sie in die Patientenübersicht, die Sie noch nach Wohnbereich, Station, Tour etc. filtern können. Dort wählen Sie einen Patienten aus. Artikel können dann in den Warenkorb gelegt werden, dabei werden nur diese Artikel angezeigt, die für den Bewohner relevant sind. Eine weiterführende Artikelkenntniss ist nicht notwendig. Nachdem alle benötigten Artikel im Warenkorb sind kann die Bestellung direkt mit einem Klick an den Versorger übermittelt werden."
         ]
       },
       {
-        "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
+        "question": "Welche Produkte kann ich über CuraLink bestellen?",
         "answer": [
-          "Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und Bestellen. Darüber hinaus werden diese Bedarfe in Form von Bestellungen automatisch an Versorger bzw. Leistungserbringer übertragen."
+          "Sie können alle Produkte über CuraLink bestellen, die Sie möchten. Vor Beginn der Einrichtung für Ihre Einrichtung fragen wir alle Produkte, Versorger und Lieferanten ab, die über CuraLink bestellt werden sollen. Wir kümmern uns dann um die Anbindung der Lieferanten, die Einrichtung der Artikel etc.."
         ]
       },
       {
-        "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
+        "question": "Ich habe eine Rückfrage zu einer Bestellung, die ich über CuraLink versendet habe, was kann ich tun?",
         "answer": [
-          "Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und Bestellen. Darüber hinaus werden diese Bedarfe in Form von Bestellungen automatisch an Versorger bzw. Leistungserbringer übertragen."
+          "Mittels CuraLink können Sie problemlos direkt mit Ihren Versorgern und Lieferanten in Kontakt treten. Nutzen Sie hierfür einfach das Kontaktformular und wählen Sie den Betreff "Rückfrage zu einer Bestellung" aus - der Versorer wird sich dann kurzfristig bei Ihnen dazu melden."
         ]
       }
     ]
   },
   {
-    "title": "Für Versorger",
+    "title": "Für Träger",
     "questions": [
       {
-        "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
+        "question": "Wie kann ich mit der Nutzung von CuraLink starten?",
         "answer": [
-          "Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und bestellen. Gleichzeitig erinnert CuraLink Sie an anstehende Bedarfe von Bewohnern/Patienten. Darüber hinaus kann mittels CuraLink einfach mit dem Versorger in Kontakt getreten werden, beispielsweise bei Rückfragen zu Bestellungen oder Reparaturbedarf bei Hilfsmitteln."
+          "XYZ."
         ]
       },
       {
-        "question": "Wie kann ich für einen Patienten eine Bestellung aufgeben?",
+        "question": "Ist eine Schulung für das Personal erforderlich, um CuraLink zu nutzen?",
         "answer": [
-          "Mit einem Klick gelangen Sie in die Patientenübersicht, die Sie noch nach Wohnbereich, Station, Tour etc. filtern können. Dort wählen Sie einen Patienten aus. Artikel können dann in den Warenkorb gelegt werden, dabei werden nur diese Artikel angezeigt, die für den Bewohner relevant sind. Eine weiterführende Artikelkenntniss ist nicht notwendig. Nachdem alle benötigten Artikel im Warenkorb sind kann die Bestellung direkt mit einem Klick an den Versorger übermittelt werden."
+          "xyz."
         ]
       },
       {
-        "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
+        "question": "Wie sicher sind die Daten in CuraLink?",
         "answer": [
-          "Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und Bestellen. Darüber hinaus werden diese Bedarfe in Form von Bestellungen automatisch an Versorger bzw. Leistungserbringer übertragen."
+          "Alle Daten, die in CuraLink verarbeitet werden, sind auf Servern in Deutschland gespeichert. Die Datenübertragung zwischen CuraLink und den Versorgern erfolgt verschlüsselt, so dass keine Dritten darauf zugreifen können. Jeder Träger bekommt darüber hinaus eine eigene technische Umgebung, so dass es zu keiner Vermischung von Bewohnerdaten kommt."
         ]
       },
       {
-        "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
+        "question": "Wie erfolgt der Datenaustausch zwischen CuraLink und bestehenden Patientenverwaltungssystemen?",
         "answer": [
-          "Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und Bestellen. Darüber hinaus werden diese Bedarfe in Form von Bestellungen automatisch an Versorger bzw. Leistungserbringer übertragen."
+          "Die erste Einrichtung inkl. Anlage aller Patienten übernehmen wir für Sie. "
         ]
       }
     ]
