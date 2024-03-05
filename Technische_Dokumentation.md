@@ -14,6 +14,8 @@ Die Sicherheit der Infrastrukturkomponenten hingegen hängt stark vom gewählten
 
 ## Systemanforderungen Client
 
+Dank unserer fortschrittlichen Sicherheitsarchitektur, die keine Speicherung von sensiblen Daten auf dem Client-Endgerät vorsieht, kann unsere App sicher auf einer Vielzahl von Endgeräten genutzt werden. Dies bedeutet, dass Mitarbeiter die Freiheit haben, die App gemäß den Unternehmensrichtlinien auch auf ihren privaten Geräten zu verwenden, solange diese Richtlinien den Zugriff erlauben. Alternativ dazu können Unternehmen natürlich auch die Nutzung auf firmenverwalteten Geräten, die durch Mobile Device Management (MDM) Lösungen gesichert sind, bevorzugen. Diese Flexibilität ermöglicht es, die App nahtlos in den Arbeitsalltag zu integrieren, ohne dabei Kompromisse bei der Sicherheit eingehen zu müssen.
+
 Die Progressive Web App (PWA) von CuraLink ist so gestaltet, dass sie eine hohe Kompatibilität und Benutzerfreundlichkeit bietet. Als PWA ist CuraLink darauf ausgelegt, auf jedem Gerät mit Internetzugang und einem kompatiblen Webbrowser zu funktionieren. Dies ermöglicht es Benutzern, von einer Vielzahl von Geräten aus – einschließlich Smartphones, Tablets, Laptops und Desktop-Computern – auf die App zuzugreifen, ohne spezifische Anforderungen an das Betriebssystem des Geräts zu stellen.
 
 - Internetverbindung: Stabile Internetverbindung für den Zugriff auf und die Nutzung der PWA.
