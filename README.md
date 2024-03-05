@@ -1,4 +1,4 @@
-# Dokumentation Test Test
+# Dokumentation
 
 Willkommen zur Dokumentation von CuraLink, der innovativen App, die speziell entwickelt wurde, um Pflegekräfte in ambulanten, stationären sowie mobilen Pflegediensten zu unterstützen. CuraLink zielt darauf ab, den Arbeitsalltag von Pflegepersonal durch die Digitalisierung der Bedarfserhebung von Verbrauchsgegenständen für die zu pflegenden Personen erheblich zu erleichtern. Durch die Optimierung dieses Prozesses trägt CuraLink dazu bei, Zeit zu sparen, die Effizienz zu steigern und letztlich eine bessere Pflegequalität zu ermöglichen.
 
