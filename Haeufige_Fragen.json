@@ -11,13 +11,13 @@
       {
         "question": "Wie kann ich für einen Patienten/Bewohner eine Bestellung aufgeben?",
         "answer": [
-          "Mit einem Klick gelangen Sie in die Patientenübersicht, die Sie noch nach Wohnbereich, Station, Tour etc. filtern können. Dort wählen Sie einen Patienten aus. Artikel können dann in den Warenkorb gelegt werden, dabei werden nur diese Artikel angezeigt, die für den Bewohner relevant sind. Eine weiterführende Artikelkenntniss ist nicht notwendig. Nachdem alle benötigten Artikel im Warenkorb sind kann die Bestellung direkt mit einem Klick an den Versorger übermittelt werden."
+          "Mit einem Klick gelangen Sie in die Patientenübersicht, die Sie noch nach Wohnbereich, Station, Tour etc. filtern können. Dort wählen Sie einen Patienten aus. Artikel können dann in den Warenkorb gelegt werden. Es werden nur diese Artikel angezeigt für die Auswahl, die aufgrund der Versorgungsarten (z.B. Wunde, enterale Ernährung) für den jeweiligen Bewohner relevant sind. Eine weiterführende Artikelkenntniss ist nicht notwendig. Nachdem alle benötigten Artikel im Warenkorb sind kann die Bestellung direkt mit einem Klick an den Versorger übermittelt werden."
         ]
       },
       {
         "question": "Welche Produkte kann ich über CuraLink bestellen?",
         "answer": [
-          "Sie können alle Produkte über CuraLink bestellen, die Sie möchten. Vor Beginn der Einrichtung für Ihre Einrichtung fragen wir alle Produkte, Versorger und Lieferanten ab, die über CuraLink bestellt werden sollen. Wir kümmern uns dann um die Anbindung der Lieferanten, die Einrichtung der Artikel etc.."
+          "Sie können alle Produkte über CuraLink bestellen, die Sie möchten. Vor Nutzungsbeginn fragen wir alle Produkte, Versorger und Lieferanten ab, die Sie über CuraLink bestellen möchten. Wir kümmern uns dann um die Anbindung der Lieferanten, die Einrichtung der Artikel etc. Somit können Sie sämtliche Produktbereiche, auch ohne einen direkten Bezug zu einem Bewohner wie beispielsweise Gastro-produkte über CuraLink abwickeln.."
         ]
       },
       {
@@ -40,19 +40,19 @@
       {
         "question": "Ist eine Schulung für das Personal erforderlich, um CuraLink zu nutzen?",
         "answer": [
-          "Eine Schulung von CuraLink ist nicht notwendig. Das System ist so selbsterklärend aufgebaut, dass nach einer kurzen Einweisung ohne weitere Schulung mit der Nutzung begonnen werden kann. Darüber hinaus stellen wir umfangreiche Anleitungen zur Verfügung. Sollten doch noch Rückfragen bestehen, so können Sie sich gerne jederzeit an service@curalink.io wenden."
+          "Eine Schulung von CuraLink ist nicht notwendig. Das System ist selbsterklärend und verständlich aufgebaut, dass nach einer kurzen Einweisung ohne weitere Schulung mit der Nutzung begonnen werden kann. Darüber hinaus stellen wir umfangreiche Anleitungen zur Verfügung. Sollten doch noch Rückfragen bestehen, so können Sie sich gerne jederzeit an service@curalink.io wenden."
         ]
       },
       {
         "question": "Wie sicher sind die Daten in CuraLink?",
         "answer": [
-          "Alle Daten, die in CuraLink verarbeitet werden, sind auf Servern in Deutschland gespeichert. Die Datenübertragung zwischen CuraLink und den Versorgern erfolgt verschlüsselt, so dass keine Dritten darauf zugreifen können. Jeder Träger bekommt darüber hinaus eine eigene technische Umgebung, so dass es zu keiner Vermischung von Bewohnerdaten kommt."
+          "Alle Daten, die in CuraLink verarbeitet werden, sind auf Servern in Deutschland gespeichert. Die Datenübertragung zwischen CuraLink und den Versorgern erfolgt verschlüsselt, so dass keine Dritten darauf zugreifen können. Für jeden Träger wird darüber hinaus eine eigene technische Umgebung eingerichtet, in der nur die Träger-individuellen Daten gespeichert und verarbeitet werden. Auf diesem Wege kann eine Trennung der Bewohnerdaten unterschiedlicher Träger sichergestellt werden."
         ]
       },
       {
         "question": "Wie erfolgt der Datenaustausch zwischen CuraLink und bestehenden Patientenverwaltungssystemen?",
         "answer": [
-          "Die erste Einrichtung inkl. Anlage aller Patienten übernehmen wir für Sie. "
+          "Die erste Einrichtung inkl. Anlage aller Patienten übernehmen wir für Sie. Darüber hinaus binden wir nach und nach die bekanntesten Patientenverwaltungssysteme an, so dass die Datenpflege ohne größere Aufwände möglich ist. "
         ]
       }
     ]
