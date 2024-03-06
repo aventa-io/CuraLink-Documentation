@@ -1,82 +1,84 @@
 [
-  {
-    "title": "Für Pflegende",
-    "questions": [
-      {
-        "question": "Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
-        "answer": [
-          "Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und bestellen. Gleichzeitig erinnert CuraLink Sie an anstehende Bedarfe von Bewohnern/Patienten. Darüber hinaus kann mittels CuraLink einfach mit dem Versorger in Kontakt getreten werden, beispielsweise bei Rückfragen zu Bestellungen oder Reparaturbedarf bei Hilfsmitteln."
-        ]
-      },
-      {
-        "question": "Wie kann ich für einen Patienten/Bewohner eine Bestellung aufgeben?",
-        "answer": [
-          "Mit einem Klick gelangen Sie in die Patientenübersicht, die Sie noch nach Wohnbereich, Station, Tour etc. filtern können. Dort wählen Sie einen Patienten aus. Artikel können dann in den Warenkorb gelegt werden. Es werden nur diese Artikel angezeigt für die Auswahl, die aufgrund der Versorgungsarten (z.B. Wunde, enterale Ernährung) für den jeweiligen Bewohner relevant sind. Eine weiterführende Artikelkenntniss ist nicht notwendig. Nachdem alle benötigten Artikel im Warenkorb sind kann die Bestellung direkt mit einem Klick an den Versorger übermittelt werden."
-        ]
-      },
-      {
-        "question": "Kann ich auch Dokumente über CuraLink an einen Versorger/Lieferanten übertragen?",
-        "answer": [
-          "Es ist mit CuraLink problemlos möglich, Dokumente an einen Versorger oder Lieferanten zu übertragen. Es können sowohl Dateien übertragen werden als auch Fotos von Dokumenten aus CuraLink heraus erstellt und direkt übermittelt werden. So wird sicher gestellt, dass kurzfristig alle versorgungsrelevante Informationen vorliegen."
-        ]
-      },
-      {
-        "question": "Welche Produkte kann ich über CuraLink bestellen?",
-        "answer": [
-          "Sie können alle Produkte über CuraLink bestellen, die Sie möchten. Vor Nutzungsbeginn fragen wir alle Produkte, Versorger und Lieferanten je Haus ab, die Sie über CuraLink bestellen möchten. Wir kümmern uns dann um die Anbindung der Lieferanten, die Einrichtung der Artikel etc. Somit können Sie sämtliche Produktbereiche, auch ohne einen direkten Bezug zu einem Bewohner wie beispielsweise Gastro-produkte über CuraLink abwickeln."
-        ]
-      },
-      {
-        "question": "Ich habe eine Rückfrage zu einer Bestellung, die ich über CuraLink versendet habe, was kann ich tun?",
-        "answer": [
-          "Mittels CuraLink können Sie problemlos direkt mit Ihren Versorgern und Lieferanten in Kontakt treten. Nutzen Sie hierfür einfach das Kontaktformular und wählen Sie den Betreff Rückfrage zu einer Bestellung aus - der Versorger wird sich dann kurzfristig bei Ihnen melden."
-        ]
-      },
-  {
-      "question": "Kann ich eine Bestellung kontrollieren, bevor sie versendet wird? ",
-        "answer": [
-          "Ja, dies ist problemlos möglich. CuraLink bietet die Option eines zweistufigen Bestellprozesses, das heißt eine Person erfasst beispielsweise für einen Wohnbereich alle notwendigen Bedarfe. Eine weitere Person kann dies dann nochmals überprüfen, einzelne Bedarfe ggf. anpassen, d.h. Mengen oder Artikel ändern, und danach die Bestellung an den Versorger senden. Ebenso bietet CuraLink die Möglichkeit, Bestellungen direkt mit einem Klick an den Versorger ohne weitere Überprüfung zu übertragen."
-    ]
-  },
-      {
-      "question": "Kann ich mit CuraLink auch Dokumente verwalten? ",
-        "answer": [
-          "CuraLink gibt Ihnen die Möglichkeit, jegliche Form von Dokumenten, beispielsweise Mehrkostenerklärungen, Versorgungszustimmungen etc. anzuzeigen, mit dem Bewohner durchzusprechen und direkt auf dem Tablet und Handy unterschreiben zu lassen. Gleichzeitig werden diese Dokumente dann direkt an den Versorger übertragen. Somit entfällt für Sie das zeitaufwändige ausdrucken, verwalten und faxen von Dokumenten. Sämtliche Dokumente, die Sie oder Ihre Versorger und Lieferanten zur Verfügung stellen, können in CuraLink angezeigt werden."
-    ]
-  },
-  {
-    "title": "Für Träger",
-    "questions": [
-      {
-        "question": "Wie kann ich mit der Nutzung von CuraLink starten?",
-        "answer": [
-          "Um CuraLink nutzen nutzen zu können benötigen wir von Ihnen lediglich die Anzahl der Nutzer, z.B. einen Nutzer je Wohnbereich, sowie die Versorger und Lieferanten, bei denen Sie über CuraLink bestellen wollen - um alles weitere kümmeren wir uns. Nach einer kurzen Einrichtungszeit können Sie direkt mit der Nutzung von CuraLink starten." 
-        ]
-      },
-      {
-        "question": "Ist eine Schulung für das Personal erforderlich, um CuraLink zu nutzen?",
-        "answer": [
-          "Eine Schulung von CuraLink ist nicht notwendig. Das System ist selbsterklärend und verständlich aufgebaut, dass nach einer kurzen Einweisung ohne weitere Schulung mit der Nutzung begonnen werden kann. Darüber hinaus stellen wir umfangreiche Anleitungen zur Verfügung. Sollten doch noch Rückfragen bestehen, so können Sie sich gerne jederzeit an service@curalink.io wenden."
-        ]
-      },
-       {
-        "question": "Kann ich CuraLink in mehreren Einrichtungen verwenden, auch wenn diese mit unterschiedlichen Versorgern zusammen arbeiten?",
-        "answer": [
-          "Eine Träger-weite Nutzung von CuraLink - auch bei unterschiedlichen Versorgern - stellt kein Problem dar. Im Vorfeld des Nutzungsbeginns fragen wir alle Produkte, Versorger und Lieferanten je Haus ab, die Sie über CuraLink bestellen möchten. Wir kümmern uns dann um die Anbindung der Lieferanten, die Einrichtung der Artikel etc. Somit können Sie sämtliche Produktbereiche, auch ohne einen direkten Bezug zu einem Bewohner wie beispielsweise Gastro-produkte über CuraLink abwickeln."
-        ]
-      },
-      {
-        "question": "Wie sicher sind die Daten in CuraLink?",
-        "answer": [
-          "Alle Daten, die in CuraLink verarbeitet werden, sind auf Servern in Deutschland gespeichert. Die Datenübertragung zwischen CuraLink und den Versorgern erfolgt verschlüsselt, so dass keine Dritten darauf zugreifen können. Für jeden Träger wird darüber hinaus eine eigene technische Umgebung eingerichtet, in der nur die Träger-individuellen Daten gespeichert und verarbeitet werden. Auf diesem Wege kann eine Trennung der Bewohnerdaten unterschiedlicher Träger sichergestellt werden."
-        ]
-      },
-      {
-        "question": "Wie erfolgt der Datenaustausch zwischen CuraLink und bestehenden Patientenverwaltungssystemen?",
-        "answer": [
-          "Die erste Einrichtung inkl. Anlage aller Patienten übernehmen wir für Sie. Darüber hinaus binden wir derzeit Schritt für Schritt die bekanntesten Patientenverwaltungssysteme an, so dass die Datenpflege ohne größere Aufwände möglich ist. "
-        ]
-      }
-    ]
-  }
+   {
+      "title":"Für Pflegende",
+      "questions":[
+         {
+            "question":"Welchen Mehrwert bringt mir CuraLink als Pflegekraft?",
+            "answer":[
+               "Sie werden als Pflegekraft bei der Erfassung der Bedarfe Ihrer Bewohner unterstützt. Sie können Verbrauchs- und Gebrauchsgegenstände einfach erfassen und bestellen. Gleichzeitig erinnert CuraLink Sie an anstehende Bedarfe von Bewohnern/Patienten. Darüber hinaus kann mittels CuraLink einfach mit dem Versorger in Kontakt getreten werden, beispielsweise bei Rückfragen zu Bestellungen oder Reparaturbedarf bei Hilfsmitteln."
+            ]
+         },
+         {
+            "question":"Wie kann ich für einen Patienten/Bewohner eine Bestellung aufgeben?",
+            "answer":[
+               "Mit einem Klick gelangen Sie in die Patientenübersicht, die Sie noch nach Wohnbereich, Station, Tour etc. filtern können. Dort wählen Sie einen Patienten aus. Artikel können dann in den Warenkorb gelegt werden. Es werden nur diese Artikel angezeigt für die Auswahl, die aufgrund der Versorgungsarten (z.B. Wunde, enterale Ernährung) für den jeweiligen Bewohner relevant sind. Eine weiterführende Artikelkenntniss ist nicht notwendig. Nachdem alle benötigten Artikel im Warenkorb sind kann die Bestellung direkt mit einem Klick an den Versorger übermittelt werden."
+            ]
+         },
+         {
+            "question":"Kann ich auch Dokumente über CuraLink an einen Versorger/Lieferanten übertragen?",
+            "answer":[
+               "Es ist mit CuraLink problemlos möglich, Dokumente an einen Versorger oder Lieferanten zu übertragen. Es können sowohl Dateien übertragen werden als auch Fotos von Dokumenten aus CuraLink heraus erstellt und direkt übermittelt werden. So wird sicher gestellt, dass kurzfristig alle versorgungsrelevante Informationen vorliegen."
+            ]
+         },
+         {
+            "question":"Welche Produkte kann ich über CuraLink bestellen?",
+            "answer":[
+               "Sie können alle Produkte über CuraLink bestellen, die Sie möchten. Vor Nutzungsbeginn fragen wir alle Produkte, Versorger und Lieferanten je Haus ab, die Sie über CuraLink bestellen möchten. Wir kümmern uns dann um die Anbindung der Lieferanten, die Einrichtung der Artikel etc. Somit können Sie sämtliche Produktbereiche, auch ohne einen direkten Bezug zu einem Bewohner wie beispielsweise Gastro-produkte über CuraLink abwickeln."
+            ]
+         },
+         {
+            "question":"Ich habe eine Rückfrage zu einer Bestellung, die ich über CuraLink versendet habe, was kann ich tun?",
+            "answer":[
+               "Mittels CuraLink können Sie problemlos direkt mit Ihren Versorgern und Lieferanten in Kontakt treten. Nutzen Sie hierfür einfach das Kontaktformular und wählen Sie den Betreff Rückfrage zu einer Bestellung aus - der Versorger wird sich dann kurzfristig bei Ihnen melden."
+            ]
+         },
+         {
+            "question":"Kann ich eine Bestellung kontrollieren, bevor sie versendet wird? ",
+            "answer":[
+               "Ja, dies ist problemlos möglich. CuraLink bietet die Option eines zweistufigen Bestellprozesses, das heißt eine Person erfasst beispielsweise für einen Wohnbereich alle notwendigen Bedarfe. Eine weitere Person kann dies dann nochmals überprüfen, einzelne Bedarfe ggf. anpassen, d.h. Mengen oder Artikel ändern, und danach die Bestellung an den Versorger senden. Ebenso bietet CuraLink die Möglichkeit, Bestellungen direkt mit einem Klick an den Versorger ohne weitere Überprüfung zu übertragen."
+            ]
+         },
+         {
+            "question":"Kann ich mit CuraLink auch Dokumente verwalten? ",
+            "answer":[
+               "CuraLink gibt Ihnen die Möglichkeit, jegliche Form von Dokumenten, beispielsweise Mehrkostenerklärungen, Versorgungszustimmungen etc. anzuzeigen, mit dem Bewohner durchzusprechen und direkt auf dem Tablet und Handy unterschreiben zu lassen. Gleichzeitig werden diese Dokumente dann direkt an den Versorger übertragen. Somit entfällt für Sie das zeitaufwändige ausdrucken, verwalten und faxen von Dokumenten. Sämtliche Dokumente, die Sie oder Ihre Versorger und Lieferanten zur Verfügung stellen, können in CuraLink angezeigt werden."
+            ]
+         }
+      ]
+   },
+   {
+      "title":"Für Träger",
+      "questions":[
+         {
+            "question":"Wie kann ich mit der Nutzung von CuraLink starten?",
+            "answer":[
+               "Um CuraLink nutzen nutzen zu können benötigen wir von Ihnen lediglich die Anzahl der Nutzer, z.B. einen Nutzer je Wohnbereich, sowie die Versorger und Lieferanten, bei denen Sie über CuraLink bestellen wollen - um alles weitere kümmeren wir uns. Nach einer kurzen Einrichtungszeit können Sie direkt mit der Nutzung von CuraLink starten."
+            ]
+         },
+         {
+            "question":"Ist eine Schulung für das Personal erforderlich, um CuraLink zu nutzen?",
+            "answer":[
+               "Eine Schulung von CuraLink ist nicht notwendig. Das System ist selbsterklärend und verständlich aufgebaut, dass nach einer kurzen Einweisung ohne weitere Schulung mit der Nutzung begonnen werden kann. Darüber hinaus stellen wir umfangreiche Anleitungen zur Verfügung. Sollten doch noch Rückfragen bestehen, so können Sie sich gerne jederzeit an service@curalink.io wenden."
+            ]
+         },
+         {
+            "question":"Kann ich CuraLink in mehreren Einrichtungen verwenden, auch wenn diese mit unterschiedlichen Versorgern zusammen arbeiten?",
+            "answer":[
+               "Eine Träger-weite Nutzung von CuraLink - auch bei unterschiedlichen Versorgern - stellt kein Problem dar. Im Vorfeld des Nutzungsbeginns fragen wir alle Produkte, Versorger und Lieferanten je Haus ab, die Sie über CuraLink bestellen möchten. Wir kümmern uns dann um die Anbindung der Lieferanten, die Einrichtung der Artikel etc. Somit können Sie sämtliche Produktbereiche, auch ohne einen direkten Bezug zu einem Bewohner wie beispielsweise Gastro-produkte über CuraLink abwickeln."
+            ]
+         },
+         {
+            "question":"Wie sicher sind die Daten in CuraLink?",
+            "answer":[
+               "Alle Daten, die in CuraLink verarbeitet werden, sind auf Servern in Deutschland gespeichert. Die Datenübertragung zwischen CuraLink und den Versorgern erfolgt verschlüsselt, so dass keine Dritten darauf zugreifen können. Für jeden Träger wird darüber hinaus eine eigene technische Umgebung eingerichtet, in der nur die Träger-individuellen Daten gespeichert und verarbeitet werden. Auf diesem Wege kann eine Trennung der Bewohnerdaten unterschiedlicher Träger sichergestellt werden."
+            ]
+         },
+         {
+            "question":"Wie erfolgt der Datenaustausch zwischen CuraLink und bestehenden Patientenverwaltungssystemen?",
+            "answer":[
+               "Die erste Einrichtung inkl. Anlage aller Patienten übernehmen wir für Sie. Darüber hinaus binden wir derzeit Schritt für Schritt die bekanntesten Patientenverwaltungssysteme an, so dass die Datenpflege ohne größere Aufwände möglich ist. "
+            ]
+         }
+      ]
+   }
 ]
