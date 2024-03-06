@@ -31,7 +31,17 @@
         "answer": [
           "Mittels CuraLink können Sie problemlos direkt mit Ihren Versorgern und Lieferanten in Kontakt treten. Nutzen Sie hierfür einfach das Kontaktformular und wählen Sie den Betreff Rückfrage zu einer Bestellung aus - der Versorger wird sich dann kurzfristig bei Ihnen melden."
         ]
-      }
+      },
+  {
+      "question": "Kann ich eine Bestellung kontrollieren, bevor sie versendet wird? ",
+        "answer": [
+          "Ja, dies ist problemlos möglich. CuraLink bietet die Option eines zweistufigen Bestellprozesses, das heißt eine Person erfasst beispielsweise für einen Wohnbereich alle notwendigen Bedarfe. Eine weitere Person kann dies dann nochmals überprüfen, einzelne Bedarfe ggf. anpassen, d.h. Mengen oder Artikel ändern, und danach die Bestellung an den Versorger senden. Ebenso bietet CuraLink die Möglichkeit, Bestellungen direkt mit einem Klick an den Versorger ohne weitere Überprüfung zu übertragen."
+    ]
+  },
+      {
+      "question": "Kann ich mit CuraLink auch Dokumente verwalten? ",
+        "answer": [
+          "CuraLink gibt Ihnen die Möglichkeit, jegliche Form von Dokumenten, beispielsweise Mehrkostenerklärungen, Versorgungszustimmungen etc. anzuzeigen, mit dem Bewohner durchzusprechen und direkt auf dem Tablet und Handy unterschreiben zu lassen. Gleichzeitig werden diese Dokumente dann direkt an den Versorger übertragen. Somit entfällt für Sie das zeitaufwändige ausdrucken, verwalten und faxen von Dokumenten. Sämtliche Dokumente, die Sie oder Ihre Versorger und Lieferanten zur Verfügung stellen, können in CuraLink angezeigt werden."
     ]
   },
   {
