@@ -19,10 +19,13 @@ Ein Team ist eine Einheit innerhalb einer Einrichtung, der User und Patienten/Be
 * **Event-Steuerung:** Teams dienen der Steuerung von Events innerhalb der App.
 
 ## User
+Der User ist eine einzelne Person bzw. Rolle, der/die CuraLink nutzt. Diese Rolle kann gleichermaßen einem einzelnen Mitarbeiter zugeordnet werden als auch beispielsweise einem Wohnbereich. In letzterem Fall teilen sich dann mehrere Nutzer die Zugangsdaten. Eine Nachvollziehbarkeit wer welche Bestellungen abgesendet oder Dokument eübermittelt hat ist in diesem Fall dann nicht mehr möglich.
 - **Erstellung mit E-Mail-Adresse:** User werden mit einer E-Mail-Adresse angelegt.
 - **Dummy-E-Mail-Adressen:** Es können Dummy-E-Mail-Adressen verwendet werden, da die Passwortzurücksetzung durch einen Administrator erfolgt. Dies vereinfacht die Benutzerverwaltung und erhöht die Sicherheit, da die Benutzer keine persönlichen E-Mail-Adressen verwenden müssen.
 
 ## User-Rollen
+Die User-Rollen unterscheiden sich in dem Umfang welche Tätigkeiten sie innerhalb von CuraLink durchführen können. Die Tätigkeiten innerhalb von CuraLink lassen Sich in folgende Bereiche Cluster: 
+/
 * **Admin:** Admins verfügen über die umfassendsten Rechte innerhalb eines Trägers. Sie können neue User und Teams anlegen, diese verschiedenen Standorten zuordnen und bei Bedarf Passwörter zurücksetzen.
 * **Teamleitung:** Teamleitungen sind berechtigt, Bestellungen für die Bewohner des Pflegeheims abzuschicken.
 * **User:** User können Bedarfe für die Bewohner erheben und die bereits getätigten Bestellungen einsehen.
