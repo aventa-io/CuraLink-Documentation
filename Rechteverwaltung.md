@@ -4,7 +4,7 @@
 Die folgende Dokumentation beschreibt die Benutzerrechte- und ROllenverwaltung der App zur Bestellung von Gebrauchs- und Verbrauchsgegenständen für Pflegeheimbewohner bzw. Mieter im betreuten Wohnen. Ziel dieses Dokuments ist die Beschreibung der einzelnen Benutzerrollen sowie der damit verbundenen Berechtigungen in CuraLink. Die Rechteverwaltung erfolgt auf vier Ebenen: Träger, Einrichtung, Team und User. Ziel dieser Aufteilung und den unterschiedlichen assoziierten die unterschiedlichen Aufgaben und Prozesse der verschiedenen Personen in der Pflege abzubilden und eine bestmögliche Struktur für die Anwendung von CuraLink zu geben. Dabei unterscheidet sich die Rechte- und Rollenverwaltung nicht zwischen der Anwendung von CuraLink in der stationären oder ambulanten Pflege. 
 
 ## Träger
-Träger bezeichnet grundsätzlich die Dachorganisation, zu der eine oder mehrere Einrichtungen gehören können. Einem Träger werden somit keine individuellen User zugeordnet sondern Einrichtungen.  
+Träger bezeichnet grundsätzlich die Dachorganisation, zu der eine oder mehrere Pflegeeinrichtungen oder -dienste gehören können. Einem Träger werden somit keine individuellen User zugeordnet sondern Einrichtungen.  
 * **Benutzer- und Teamverwaltung:** Innerhalb einer Einrichtung werden Benutzer und Teams erstellt und verwaltet.
 * **Bewohnertransparenz:** Alle Benutzer innerhalb einer Einrichtung haben Zugriff auf die Daten aller Bewohner dieser Einrichtung.
 
@@ -14,6 +14,7 @@ Eine Einrichtung ist ein konkretes Pflegeheim bzw. ein konkreter Pflegedienst. E
 * **Bewohnertransparenz:** Alle Benutzer innerhalb einer Einrichtung haben Zugriff auf die Daten aller Bewohner dieser Einrichtung.
 
 ## Team
+Ein Team ist eine Einheit innerhalb einer Einrichtung, der User und Patienten/Bewohner zugeordnet werden können. Team kann als Attribut ebenso ausgewählt werden, um in der Bewohnerübersicht Patienten/Bewohner zu filtern. Die Rolle Team orientiert sich an den jeweiligen Anforderungen einer Einrichtung und kann je nach Anforderung anders bezeichnet werden, z.B. Wohnbereich oder Tour.  
 * **Teamzugehörigkeit:** Benutzer werden bestimmten Teams zugeordnet.
 * **Event-Steuerung:** Teams dienen der Steuerung von Events innerhalb der App.
 
