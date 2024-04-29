@@ -24,8 +24,14 @@ Der User ist eine einzelne Person bzw. Rolle, der/die CuraLink nutzt. Diese Roll
 - **Dummy-E-Mail-Adressen:** Es können Dummy-E-Mail-Adressen verwendet werden, da die Passwortzurücksetzung durch einen Administrator erfolgt. Dies vereinfacht die Benutzerverwaltung und erhöht die Sicherheit, da die Benutzer keine persönlichen E-Mail-Adressen verwenden müssen.
 
 ## User-Rollen
-Die User-Rollen unterscheiden sich in dem Umfang welche Tätigkeiten sie innerhalb von CuraLink durchführen können. Die Tätigkeiten innerhalb von CuraLink lassen Sich in folgende Bereiche Cluster: 
-/
+Die User-Rollen unterscheiden sich in dem Umfang welche Tätigkeiten sie innerhalb von CuraLink durchführen können. Die Tätigkeiten innerhalb von CuraLink lassen Sich in folgende Bereiche unterteilen: 
+* **Nutzerverwaltung**: Die Anlage und Pflege von Nutzern, Teams so die Passwortverwaltung
+* **Patientenverwaltung** Die Anlage und Verwaltung von Patienten/Bewohnern inkl. Pflege der Patienten-/Bewohnerdaten sowie assoziierten Dokumenten und Hilfsmitteln.
+* **Kommunikation** Die Übermittlung von ausgefüllten Kontaktformularen an den Versorger inkl. möglichen Anhängen in Form von Dokumenten oder Fotografien (z.B. von beschädigten Hilfsmitteln). Diese Kommunikation kann mit Bezug zu einem Patienten/Bewohner, mit Bezug zu einer Bestellung oder ohne konkreten Bezug erfolgen. 
+* **Bestellverwaltung** Die Auswahl von Artikel auf Patienten-/Bewohnerebene und Hinzufügen zu einem Warenkorb, die Erstellung einer Wiedervorlage für einen Bestellvorschlag zu einem späteren Zeitpunk sowie die Übertragung von Bestellungen an den Versorger.
+Die wesentlichen Unterscheidungen zwischen den einzelnen Rollen beziehen sich auf die Bereichtigungen im Bereich Nutzerverwaltung sowie die Bestellverwaltung. 
+  
+
 * **Admin:** Admins verfügen über die umfassendsten Rechte innerhalb eines Trägers. Sie können neue User und Teams anlegen, diese verschiedenen Standorten zuordnen und bei Bedarf Passwörter zurücksetzen.
 * **Teamleitung:** Teamleitungen sind berechtigt, Bestellungen für die Bewohner des Pflegeheims abzuschicken.
 * **User:** User können Bedarfe für die Bewohner erheben und die bereits getätigten Bestellungen einsehen.
