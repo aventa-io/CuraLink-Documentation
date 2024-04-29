@@ -31,8 +31,8 @@ Die User-Rollen unterscheiden sich in dem Umfang welche Tätigkeiten sie innerha
 * **Bestellverwaltung** Die Auswahl von Artikel auf Patienten-/Bewohnerebene und Hinzufügen zu einem Warenkorb, die Erstellung einer Wiedervorlage für einen Bestellvorschlag zu einem späteren Zeitpunk sowie die Übertragung von Bestellungen an den Versorger.
 
 Die wesentlichen Unterscheidungen zwischen den einzelnen Rollen beziehen sich auf die Bereichtigungen im Bereich Nutzerverwaltung sowie die Bestellverwaltung. 
-  
+Demnach kann jede Rolle alle Tätigkeiten im Bereich Patientenverwaltung und Kommunikation durchführen. Die Unterscheidungen zwischen den Rollen werden im nächsten Abschnitt dargestellt:  
 
-* **Admin:** Admins verfügen über die umfassendsten Rechte innerhalb eines Trägers. Sie können neue User und Teams anlegen, diese verschiedenen Standorten zuordnen und bei Bedarf Passwörter zurücksetzen.
-* **Teamleitung:** Teamleitungen sind berechtigt, Bestellungen für die Bewohner des Pflegeheims abzuschicken.
-* **User:** User können Bedarfe für die Bewohner erheben und die bereits getätigten Bestellungen einsehen.
+* **Admin:** Admins verfügen über die umfassendsten Rechte innerhalb eines Trägers. Sie können als einzige Rolle neue User und Teams anlegen, diese verschiedenen Standorten zuordnen und bei Bedarf Passwörter zurücksetzen. Darüber hinaus können sie alle Tätigkeiten durchführen, die auch mit den anderen Rollen assoziiert sind, beispielsweise die Bestellverwaltung oder Kommunikation. 
+* **Teamleitung:** Teamleitungen sind berechtigt alle Funktionalitäten der Bestellverwaltung zu nutzen, d.h. Bestellungen für die Bewohner des Pflegeheims abzuschicken. Darüber hinaus kann die Teamleitung alle Funktionalitäten der Patientenverwaltung sowie der Kommunikation nutzen. 
+* **User:** User können Bedarfe für die Bewohner erheben und die bereits getätigten Bestellungen einsehen. Ein Versanden der Bestellung ist einem User nicht möglich. Darüber hinaus kann die User-Rolle alle Funktionen der Patientenverwaltung sowie Kommunikation nutzen. 
