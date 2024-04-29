@@ -1,7 +1,7 @@
 [Zurück zu "Dokumentation"](README.md)
 
-# Rechteverwaltung
-Die folgende Dokumentation beschreibt die Benutzerrechteverwaltung der App zur Bestellung von Gebrauchs- und Verbrauchsgegenständen für Pflegeheimbewohner. Die Rechteverwaltung erfolgt auf vier Ebenen: Träger, Einrichtung, Team und User.
+# Rechte- und Rollenverwaltung
+Die folgende Dokumentation beschreibt die Benutzerrechte- und ROllenverwaltung der App zur Bestellung von Gebrauchs- und Verbrauchsgegenständen für Pflegeheimbewohner bzw. Mieter im betreuten Wohnen. Ziel dieses Dokuments ist die Beschreibung der einzelnen Benutzerrollen sowie der damit verbundenen Berechtigungen in CuraLink. Die Rechteverwaltung erfolgt auf vier Ebenen: Träger, Einrichtung, Team und User. Ziel dieser Aufteilung und den unterschiedlichen assoziierten die unterschiedlichen Aufgaben und Prozesse der verschiedenen Personen in der Pflege abzubilden und eine bestmögliche Struktur für die Anwendung von CuraLink zu geben. 
 
 ## Träger
 * **Benutzer- und Teamverwaltung:** Innerhalb einer Einrichtung werden Benutzer und Teams erstellt und verwaltet.
