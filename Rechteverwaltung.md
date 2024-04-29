@@ -1,13 +1,15 @@
 [Zurück zu "Dokumentation"](README.md)
 
 # Rechte- und Rollenverwaltung
-Die folgende Dokumentation beschreibt die Benutzerrechte- und ROllenverwaltung der App zur Bestellung von Gebrauchs- und Verbrauchsgegenständen für Pflegeheimbewohner bzw. Mieter im betreuten Wohnen. Ziel dieses Dokuments ist die Beschreibung der einzelnen Benutzerrollen sowie der damit verbundenen Berechtigungen in CuraLink. Die Rechteverwaltung erfolgt auf vier Ebenen: Träger, Einrichtung, Team und User. Ziel dieser Aufteilung und den unterschiedlichen assoziierten die unterschiedlichen Aufgaben und Prozesse der verschiedenen Personen in der Pflege abzubilden und eine bestmögliche Struktur für die Anwendung von CuraLink zu geben. 
+Die folgende Dokumentation beschreibt die Benutzerrechte- und ROllenverwaltung der App zur Bestellung von Gebrauchs- und Verbrauchsgegenständen für Pflegeheimbewohner bzw. Mieter im betreuten Wohnen. Ziel dieses Dokuments ist die Beschreibung der einzelnen Benutzerrollen sowie der damit verbundenen Berechtigungen in CuraLink. Die Rechteverwaltung erfolgt auf vier Ebenen: Träger, Einrichtung, Team und User. Ziel dieser Aufteilung und den unterschiedlichen assoziierten die unterschiedlichen Aufgaben und Prozesse der verschiedenen Personen in der Pflege abzubilden und eine bestmögliche Struktur für die Anwendung von CuraLink zu geben. Dabei unterscheidet sich die Rechte- und Rollenverwaltung nicht zwischen der Anwendung von CuraLink in der stationären oder ambulanten Pflege. 
 
 ## Träger
+Träger bezeichnet grundsätzlich die Dachorganisation, zu der eine oder mehrere Einrichtungen gehören können. Einem Träger werden somit keine individuellen User zugeordnet sondern Einrichtungen.  
 * **Benutzer- und Teamverwaltung:** Innerhalb einer Einrichtung werden Benutzer und Teams erstellt und verwaltet.
 * **Bewohnertransparenz:** Alle Benutzer innerhalb einer Einrichtung haben Zugriff auf die Daten aller Bewohner dieser Einrichtung.
 
 ## Einrichtung
+Eine Einrichtung ist ein konkretes Pflegeheim bzw. ein konkreter Pflegedienst. Einer Einrichtung werden einzelne Patienten/Bewohner zugeordnet.  
 * **Benutzer- und Teamverwaltung:** Innerhalb einer Einrichtung werden Benutzer und Teams erstellt und verwaltet.
 * **Bewohnertransparenz:** Alle Benutzer innerhalb einer Einrichtung haben Zugriff auf die Daten aller Bewohner dieser Einrichtung.
 
