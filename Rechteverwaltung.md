@@ -29,6 +29,7 @@ Die User-Rollen unterscheiden sich in dem Umfang welche Tätigkeiten sie innerha
 * **Patientenverwaltung** Die Anlage und Verwaltung von Patienten/Bewohnern inkl. Pflege der Patienten-/Bewohnerdaten sowie assoziierten Dokumenten und Hilfsmitteln.
 * **Kommunikation** Die Übermittlung von ausgefüllten Kontaktformularen an den Versorger inkl. möglichen Anhängen in Form von Dokumenten oder Fotografien (z.B. von beschädigten Hilfsmitteln). Diese Kommunikation kann mit Bezug zu einem Patienten/Bewohner, mit Bezug zu einer Bestellung oder ohne konkreten Bezug erfolgen. 
 * **Bestellverwaltung** Die Auswahl von Artikel auf Patienten-/Bewohnerebene und Hinzufügen zu einem Warenkorb, die Erstellung einer Wiedervorlage für einen Bestellvorschlag zu einem späteren Zeitpunk sowie die Übertragung von Bestellungen an den Versorger.
+
 Die wesentlichen Unterscheidungen zwischen den einzelnen Rollen beziehen sich auf die Bereichtigungen im Bereich Nutzerverwaltung sowie die Bestellverwaltung. 
   
 
