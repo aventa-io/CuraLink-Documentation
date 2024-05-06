@@ -10,6 +10,7 @@ Träger bezeichnet grundsätzlich die Dachorganisation, zu der eine oder mehrere
 Eine Einrichtung ist ein konkretes Pflegeheim bzw. ein konkreter Pflegedienst. Die Einrichtung ist eine logische Zuordnung von Teams, Anwendern und Patienten. Eine Einrichtung wird dabei mittels optionaler Variablen (Teams, Adresse, Typ: Mobil/Stationär und Struktur von Haus, Etage, Flur) definiert. Im Anschluss können Anwender einer Einrichtung zugeordnet werden. Eine Einrichtung wird einmalig durch CuraLink eingerichtet.
 
 ## Teams
+Ein Team ist eine Einheit innerhalb einer Einrichtung, der Anwender und Patienten/Bewohner zugeordnet werden können. Teams können von Administratoren in der Oberfläche eingerichtet werden.
 
 ## Anwender
 Anwender können durch Administratoren in der Oberfläche eingerichtet werden. Dazu muss eine E-Mail Adresse und ein Passwort gewählt werden. CuraLink erfordert aufgrund flexibler Sicherheitsbestimmungen keine dedizierte Passwort-Richtlinie, daher ist der Administrator zur Auswahl eines sicheren Passwortes angehalten. Dies gilt ebenso für das Zurücksetzen von Passwörtern für User, dies kann nur durch einen Administrator erfolgen. Bei der Anlage muss ein Team und eine Rolle (siehen [Rechteverwaltung](Rechteverwaltung.md)) ausgewählt werden.
