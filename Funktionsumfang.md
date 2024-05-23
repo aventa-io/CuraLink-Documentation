@@ -20,13 +20,12 @@ Notwendige Dokumente, wie SEPA Mandate und Versorgungsaufträge, können direkt 
 
 ##Bedarfserhebung
 Die App bietet eine detaillierte Übersicht über anstehende Bestellungen und erlaubt es, Bedarfe gezielt zu erfassen und anzupassen, basierend auf spezifischen Informationen wie 
-
 Stockwerken oder Wohnbereichen.
-##Artikel auf Basis der freigegebenen Versorgungen Auswählen
-Mit CuraLink können Sie gezielt Artikel auswählen, die bereits für die Versorgung Ihrer Patienten freigegeben sind. Dies stellt sicher, dass nur die benötigten und genehmigten Artikel in die Einkaufsliste aufgenommen werden, was den Bestellprozess schneller und fehlerfreier macht. Durch die Integration dieser Funktion in das System werden 
 
-##Fehlbestellungen vermieden und die Compliance mit den Vorgaben der Gesundheitsversorgung wird gewährleistet.
-Bedarfe als Wiedervorlagen festlegen
+##Artikel auf Basis der freigegebenen Versorgungen Auswählen
+Mit CuraLink können Sie gezielt Artikel auswählen, die bereits für die Versorgung Ihrer Patienten freigegeben sind. Dies stellt sicher, dass nur die benötigten und genehmigten Artikel in die Einkaufsliste aufgenommen werden, was den Bestellprozess schneller und fehlerfreier macht. Durch die Integration dieser Funktion in das System werden Fehlbestellungen vermieden und die Compliance mit den Vorgaben der Gesundheitsversorgung wird gewährleistet.
+
+##Bedarfe als Wiedervorlagen festlegen
 CuraLink bietet die Möglichkeit, bestimmte Bedarfe als Wiedervorlagen zu kennzeichnen. Dies ist besonders nützlich für wiederkehrende Bestellungen oder für Artikel, die regelmäßig überprüft und eventuell erneuert werden müssen. Durch das Festlegen von Wiedervorlagen können Sie den Überblick behalten und sicherstellen, dass keine wichtigen Bestelltermine oder Nachbestellungen vergessen werden.
 
 ##Vergangene und anstehende Bedarfe einsehen
