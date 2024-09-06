@@ -1,5 +1,3 @@
-[Zurück zu "Dokumentation"](README.md)
-
 # Onboarding-Prozess
 Das folgende Dokument beschreibt den Onboarding-Prozess auf die Plattform CuraLink. Die Prozessbeschreibung erfolgt auf den 4 Bereitstellungsebenen. (Träger, Einrichtung, Teams & Anwender)
 
